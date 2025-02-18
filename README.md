@@ -1,4 +1,5 @@
 # Welcome to My Portfolio Website!
+![image](https://github.com/user-attachments/assets/9185c417-49b6-466c-8162-340d033e77ba)
 
 This repository showcases my skills, projects, and experiences.
 
