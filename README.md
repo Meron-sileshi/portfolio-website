@@ -1,5 +1,6 @@
 # Welcome to My Portfolio Website!
-![image](https://github.com/user-attachments/assets/9185c417-49b6-466c-8162-340d033e77ba)
+![image](https://github.com/user-attachments/assets/948fc06f-678f-43a1-a78e-b491733ce897)
+
 
 This repository showcases my skills, projects, and experiences.
 
@@ -16,4 +17,4 @@ This repository showcases my skills, projects, and experiences.
 - **JavaScript:** For interactivity and dynamic content.
 - **Bootstreap framework:** a CSS framework that provides a set of predefined CSS codes to make web development faster and easier.
 
-##Thank you for visiting my portfolio!
+## Thank you for visiting my portfolio!
